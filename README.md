@@ -5,8 +5,8 @@
 $apt update && apt upgrade
 $pkg install bash -y
 $git clone
-$cd Bash-Login
-$bash login.sh
+$cd bash-sell
+$bash Sell.sh
 ```
 *BY MR WINNER*
 
