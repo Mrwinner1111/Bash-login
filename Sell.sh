@@ -1,12 +1,12 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
 echo -e "\e[1;35m
-L)                       ##             S)ssss  h)              l)L  l)L  
-L)                                     S)    ss h)               \e[1;93ml)   l)  
-L)        o)OOO   g)GGG  i) n)NNNN      S)ss    \e[1;32mh)HHHH  e)EEEEE  l)   l)  
-L)       o)   OO g)   GG i) n)   NN         S)  h)   \e[1;96mHH e)EEEE   l)   l)  
-L)       o)   OO g)   GG i) n)   NN    S)    ss h)   HH e)       l)   l)  
-L)llllll  o)OOO   g)GGGG i) n)   NN     S)ssss  h)   HH  e)EEEE l)LL l)LL 
+L)                       ##              
+L)                                     
+L)        o)OOO   g)GGG  i) n)NNNN    
+L)       o)   OO g)   GG i) n)   NN         
+L)       o)   OO g)   GG i) n)   NN        
+L)llllll  o)OOO   g)GGGG i) n)   NN      
                       GG                                                  
                  g)GGGG                                                   
 \e[1;35m
