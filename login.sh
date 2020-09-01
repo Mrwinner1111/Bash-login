@@ -1,13 +1,21 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
-echo -e "\e[1;31m
-
-   __        ______     _______  __  .__   __. 
+echo -e "\e[1;32m
+  __        ______     _______  __  .__   __. 
  |  |      /  __  \   /  _____||  | |  \ |  | 
  |  |     |  |  |  | |  |  __  |  | |   \|  | 
  |  |     |  |  |  | |  | |_ | |  | |  . `  | 
  |  `----.|  `--'  | |  |__| | |  | |  |\   | 
  |_______| \______/   \______| |__| |__| \__| 
+                                              
+
+
+  
+ 
+ 
+
+
+ 
                                               
 
 
@@ -30,8 +38,8 @@ echo -e "\e[1;31m
    
                                           
                                                         
-\e[1;30m
-\e[1;30m
+\e[1;35m
+\e[1;35m
 [+] Author : MR WINNER
 [+] YouTube : MR WINNER 
 [+] Github : https://www.github.com/Mrwinner1111/bash-login
