@@ -1,8 +1,21 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
-echo -e "\e[1;35m
+echo -e "\e[1;31m
 
-figlet "LOGIN"
+   __        ______     _______  __  .__   __. 
+ |  |      /  __  \   /  _____||  | |  \ |  | 
+ |  |     |  |  |  | |  |  __  |  | |   \|  | 
+ |  |     |  |  |  | |  | |_ | |  | |  . `  | 
+ |  `----.|  `--'  | |  |__| | |  | |  |\   | 
+ |_______| \______/   \______| |__| |__| \__| 
+                                              
+
+
+
+
+
+
+
                                      
     
       
@@ -17,8 +30,8 @@ figlet "LOGIN"
    
                                           
                                                         
-\e[1;35m
-\e[1;35m
+\e[1;30m
+\e[1;30m
 [+] Author : MR WINNER
 [+] YouTube : MR WINNER 
 [+] Github : https://www.github.com/Mrwinner1111/bash-login
