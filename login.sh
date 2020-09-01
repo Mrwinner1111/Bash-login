@@ -7,7 +7,7 @@ L)        o)OOO   g)GGGG i) n)NNNN
 L)       o)   OO g)   GG i) n)   NN         
 L)       o)   OO g)   GG i) n)   NN    
 L)llllll  o)OOO   g)GGGG i) n)   NN     
-                      GG                                                  
+                       G                                               
                   g)GGGG
 \e[1;35m
 [+] Author : MR WINNER
@@ -24,12 +24,12 @@ rm bash.bashrc
 cat <<LOGIN>bash.bashrc
 trap '' 2
 echo -e "\e[1;32m
-                   ──────────────────────
-                   ──▄▀▀▀▄ *BY MR WINNER*
-                   ──█───█───────────────
-                   ─███████─────────▄▀▀▄─
-                   ░██─▀─██░░█▀█▀▀▀▀█░░█░
-                   ░███▄███░░▀░▀░░░░░▀▀░░
+                               ──────────────────────
+                               ──▄▀▀▀▄ *BY MR WINNER*
+                               ──█───█───────────────
+                               ─███████─────────▄▀▀▄─
+                               ░██─▀─██░░█▀█▀▀▀▀█░░█░
+                               ░███▄███░░▀░▀░░░░░▀▀░░
 \e[0m"
 read -p $'\e[32mInput Username :\e[0m ' user
 read -s -p $'\e[32mInput Password :\e[0m ' pass
