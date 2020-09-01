@@ -1,14 +1,22 @@
 #!/data/data/com.termux/usr/bin/bash
 clear
 echo -e "\e[1;35m
-L)                       ##              
-L)                                     
-L)        o)OOO   g)GGG  i) n)NNNN    
-L)       o)   OO g)   GG i) n)   NN         
-L)       o)   OO g)   GG i) n)   NN        
-L)llllll  o)OOO   g)GGGG i) n)   NN      
-                      GG                                                  
-                 g)GGGG                                                   
+
+figlet "LOGIN"
+                                     
+    
+      
+     
+      
+                                                             
+  
+                                    
+   
+    
+    
+   
+                                          
+                                                        
 \e[1;35m
 \e[1;35m
 [+] Author : MR WINNER
@@ -33,7 +41,7 @@ echo -e "\e[1;32m
                 ░███▄███░░▀░▀░░░░░▀▀░░
 \e[0m"
 read -p $'\e[32mInput Username :\e[0m ' user
-read -s -p $'\e[32mInput Password :\e[0m ' pass
+read -s -p $'\e[32mInput Password :\e[0m ' password
 if [[ \$pass == $password && \$user == $username ]]; then
 PS1='\033[1;32m
 \a┏\a  \033[1;32m
