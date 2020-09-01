@@ -4,9 +4,9 @@
 ```
 $apt update && apt upgrade
 $pkg install bash -y
-$git clone
-$cd bash-sell
-$bash Sell.sh
+$git clone 
+$cd login-sel
+$bash login.sh
 ```
 *BY MR WINNER*
 
